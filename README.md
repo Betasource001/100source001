@@ -5,9 +5,12 @@ Driven crypto trader focused on continuous growth and skill-building in the fast
 ---
 
 ## 🚀 What I do
-Running blockchain nodes and testnets
-Exploring decentralized networks and technologies
-Constantly learning and improving my blockchain skills
+
+* Running blockchain nodes and testnets
+* Exploring decentralized networks and technologies
+* Constantly learning and improving my blockchain skills
+
+---
 
 ## 🛠️ Tech Stack
 
